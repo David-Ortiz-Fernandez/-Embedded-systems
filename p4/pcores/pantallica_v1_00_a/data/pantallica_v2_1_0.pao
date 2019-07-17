@@ -1,0 +1,13 @@
+##############################################################################
+## Filename:          C:/hlocal/p2-20171023T092356Z-001/p2-20171023T092356Z-001/p2/pcores/pantallica_v1_00_a/data/pantallica_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Thu Nov 16 16:14:23 2017 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib plbv46_slave_single_v1_01_a  all 
+lib wrpfifo_v5_01_a  all 
+lib pantallica_v1_00_a user_logic vhdl
+lib pantallica_v1_00_a pantallica vhdl
+lib pantallica_v1_00_a counter2 vhdl
+lib pantallica_v1_00_a vgacore vhdl

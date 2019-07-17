@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/hlocal/p2-20171023T092356Z-001/p2-20171023T092356Z-001/p2/pcores/pantallica_v1_00_a/devl/projnav/user_logic.xst" -ofn "C:/hlocal/p2-20171023T092356Z-001/p2-20171023T092356Z-001/p2/pcores/pantallica_v1_00_a/devl/projnav/user_logic.syr" 

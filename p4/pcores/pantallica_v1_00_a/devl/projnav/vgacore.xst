@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/David/Desktop/practica4/pcores/pantallica_v1_00_a/devl/projnav/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/David/Desktop/practica4/pcores/pantallica_v1_00_a/devl/projnav/xst"
+elaborate
+-ifn vgacore.prj
+-ifmt mixed

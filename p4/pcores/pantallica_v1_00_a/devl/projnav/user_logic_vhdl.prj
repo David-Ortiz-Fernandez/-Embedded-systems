@@ -1,0 +1,4 @@
+vhdl proc_common_v3_00_a "C:\software\electronica\xilinx\14.1\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\proc_common_v3_00_a\hdl\vhdl\proc_common_pkg.vhd"
+vhdl work "C:\hlocal\p2-20171023T092356Z-001\p2-20171023T092356Z-001\p2\pcores\pantallica_v1_00_a\hdl\vhdl\vgacore.vhd"
+vhdl work "C:\hlocal\p2-20171023T092356Z-001\p2-20171023T092356Z-001\p2\pcores\pantallica_v1_00_a\hdl\vhdl\counter2.vhd"
+vhdl pantallica_v1_00_a "C:\hlocal\p2-20171023T092356Z-001\p2-20171023T092356Z-001\p2\pcores\pantallica_v1_00_a\hdl\vhdl\user_logic.vhd"

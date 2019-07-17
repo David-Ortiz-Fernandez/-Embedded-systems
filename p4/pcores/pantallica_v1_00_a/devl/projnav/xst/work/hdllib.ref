@@ -1,0 +1,4 @@
+AR vgacore vgacore_arch C:/Users/David/Desktop/practica4/pcores/pantallica_v1_00_a/hdl/vhdl/vgacore.vhd sub00/vhpl01 1512736059
+AR counter2 rtl C:/hlocal/p2-20171023T092356Z-001/p2-20171023T092356Z-001/p2/pcores/pantallica_v1_00_a/hdl/vhdl/counter2.vhd sub00/vhpl03 1510846822
+EN vgacore NULL C:/Users/David/Desktop/practica4/pcores/pantallica_v1_00_a/hdl/vhdl/vgacore.vhd sub00/vhpl00 1512736058
+EN counter2 NULL C:/hlocal/p2-20171023T092356Z-001/p2-20171023T092356Z-001/p2/pcores/pantallica_v1_00_a/hdl/vhdl/counter2.vhd sub00/vhpl02 1510846821

@@ -1,0 +1,18 @@
+V3 8
+FL C:/hlocal/p2-20171023T092356Z-001/p2-20171023T092356Z-001/p2/pcores/pantallica_v1_00_a/hdl/vhdl/counter2.vhd 2014/07/18.19:26:22 P.20131013
+EN work/counter2 1510846821 \
+      FL C:/hlocal/p2-20171023T092356Z-001/p2-20171023T092356Z-001/p2/pcores/pantallica_v1_00_a/hdl/vhdl/counter2.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/counter2/rtl 1510846822 \
+      FL C:/hlocal/p2-20171023T092356Z-001/p2-20171023T092356Z-001/p2/pcores/pantallica_v1_00_a/hdl/vhdl/counter2.vhd \
+      EN work/counter2 1510846821 CP d_out
+FL C:/hlocal/p2-20171023T092356Z-001/p2-20171023T092356Z-001/p2/pcores/pantallica_v1_00_a/hdl/vhdl/vgacore.vhd 2014/07/18.19:26:22 P.20131013
+FL C:/Users/David/Desktop/practica4/pcores/pantallica_v1_00_a/hdl/vhdl/vgacore.vhd 2017/12/08.13:00:58 P.20131013
+EN work/vgacore 1512736058 \
+      FL C:/Users/David/Desktop/practica4/pcores/pantallica_v1_00_a/hdl/vhdl/vgacore.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/vgacore/vgacore_arch 1512736059 \
+      FL C:/Users/David/Desktop/practica4/pcores/pantallica_v1_00_a/hdl/vhdl/vgacore.vhd \
+      EN work/vgacore 1512736058

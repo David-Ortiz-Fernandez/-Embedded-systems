@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "C:\hlocal\p2-20171023T092356Z-001\p2-20171023T092356Z-001\p2\pcores\pantallica_v1_00_a\devl\synthesis\pantallica_xst.prj"
+-top pantallica
+-p virtex6
+-ofn "C:\hlocal\p2-20171023T092356Z-001\p2-20171023T092356Z-001\p2\pcores\pantallica_v1_00_a\devl\synthesis\pantallica_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib pantallica_v1_00_a

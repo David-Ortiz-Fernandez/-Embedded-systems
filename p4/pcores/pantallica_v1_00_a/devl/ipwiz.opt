@@ -1,0 +1,10 @@
+-batch 
+-create pantallica 
+-ver 1.00.a 
+-dir "C:\hlocal\p2-20171023T092356Z-001\p2-20171023T092356Z-001\p2" 
+-lang vhdl 
+-bus plbv46 s 
+-wfifo 1 512 
+-xps 
+-ise 
+-driver 
