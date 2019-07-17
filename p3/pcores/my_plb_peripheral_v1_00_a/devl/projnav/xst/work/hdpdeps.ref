@@ -1,0 +1,23 @@
+V3 11
+FL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/debouncer.vhd 2017/10/09.11:23:06 P.15xf
+EN work/debouncer 1509984473 \
+      FL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/debouncer.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/debouncer/debouncerArch 1509984474 \
+      FL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/debouncer.vhd \
+      EN work/debouncer 1509984473
+FL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/divisor_frecuencia.vhd 2017/10/09.10:31:04 P.15xf
+EN work/divisor1 1509984471 \
+      FL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/divisor_frecuencia.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/divisor1/divisor1_arch 1509984472 \
+      FL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/divisor_frecuencia.vhd \
+      EN work/divisor1 1509984471
+FL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/pro.vhd 2017/11/06.13:30:58 P.15xf
+EN work/pro 1509984477 \
+      FL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/pro.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/pro/Behavioral 1509984478 \
+      FL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/pro.vhd \
+      EN work/pro 1509984477 CP divisor1 CP debouncer

@@ -1,0 +1,4 @@
+AR my_plb_peripheral imp C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/my_plb_peripheral.vhd sub00/vhpl03 1509984190
+AR user_logic imp C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/user_logic.vhd sub00/vhpl01 1509984480
+EN user_logic NULL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/user_logic.vhd sub00/vhpl00 1509984479
+EN my_plb_peripheral NULL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/my_plb_peripheral.vhd sub00/vhpl02 1509984189

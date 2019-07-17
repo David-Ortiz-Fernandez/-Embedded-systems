@@ -1,0 +1,3 @@
+vhdl work "../../hdl/vhdl/divisor_frecuencia.vhd"
+vhdl work "../../hdl/vhdl/debouncer.vhd"
+vhdl work "../../hdl/vhdl/pro.vhd"

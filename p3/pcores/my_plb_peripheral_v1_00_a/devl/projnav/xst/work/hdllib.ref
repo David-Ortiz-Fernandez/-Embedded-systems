@@ -1,0 +1,6 @@
+EN pro NULL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/pro.vhd sub00/vhpl04 1509984477
+AR debouncer debouncerarch C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/debouncer.vhd sub00/vhpl03 1509984474
+AR divisor1 divisor1_arch C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/divisor_frecuencia.vhd sub00/vhpl01 1509984472
+EN divisor1 NULL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/divisor_frecuencia.vhd sub00/vhpl00 1509984471
+EN debouncer NULL C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/debouncer.vhd sub00/vhpl02 1509984473
+AR pro behavioral C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/pro.vhd sub00/vhpl05 1509984478

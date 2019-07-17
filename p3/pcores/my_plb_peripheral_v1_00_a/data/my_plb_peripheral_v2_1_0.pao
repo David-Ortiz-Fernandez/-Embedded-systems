@@ -1,0 +1,13 @@
+##############################################################################
+## Filename:          C:/hlocal/p2-20171023T092356Z-001/p2/pcores/my_plb_peripheral_v1_00_a/data/my_plb_peripheral_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Mon Oct 23 17:20:56 2017 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib plbv46_slave_single_v1_01_a  all 
+lib my_plb_peripheral_v1_00_a user_logic vhdl
+lib my_plb_peripheral_v1_00_a my_plb_peripheral vhdl
+lib my_plb_peripheral_v1_00_a pro vhdl
+lib my_plb_peripheral_v1_00_a divisor_frecuencia vhdl
+lib my_plb_peripheral_v1_00_a debouncer vhdl

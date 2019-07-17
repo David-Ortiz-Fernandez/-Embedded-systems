@@ -1,0 +1,10 @@
+-batch 
+-create my_plb_peripheral 
+-ver 1.00.a 
+-dir "C:\hlocal\p2-20171023T092356Z-001\p2" 
+-lang vhdl 
+-bus plbv46 s 
+-reg 1 
+-xps 
+-ise 
+-driver 

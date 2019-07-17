@@ -1,0 +1,57 @@
+V3 34
+FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/counter_f.vhd 2012/04/24.10:02:10 P.15xf
+EN proc_common_v3_00_a/counter_f 1509984167 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/counter_f.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/NUMERIC_STD 1335251627 LB unisim \
+      LB proc_common_v3_00_a PB proc_common_v3_00_a/family_support 1509984166
+AR proc_common_v3_00_a/counter_f/imp 1509984168 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/counter_f.vhd \
+      EN proc_common_v3_00_a/counter_f 1509984167 CP std_logic_vector CP std_logic \
+      CP MUXCY_L CP XORCY CP FDRE CP unsigned
+FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/family_support.vhd 2012/04/24.10:02:10 P.15xf
+PH proc_common_v3_00_a/family_support 1509984165 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/family_support.vhd
+PB proc_common_v3_00_a/family_support 1509984166 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/family_support.vhd \
+      PH proc_common_v3_00_a/family_support 1509984165
+FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/ipif_pkg.vhd 2012/04/24.10:02:10 P.15xf
+PH proc_common_v3_00_a/ipif_pkg 1509984173 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/ipif_pkg.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+PB proc_common_v3_00_a/ipif_pkg 1509984174 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/ipif_pkg.vhd \
+      PH proc_common_v3_00_a/ipif_pkg 1509984173 LB proc_common_v3_00_a \
+      PB proc_common_v3_00_a/proc_common_pkg 1509984476
+FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_gate128.vhd 2012/04/24.10:02:10 P.15xf
+EN proc_common_v3_00_a/or_gate128 1509984171 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_gate128.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625 LB proc_common_v3_00_a
+AR proc_common_v3_00_a/or_gate128/imp 1509984172 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_gate128.vhd \
+      EN proc_common_v3_00_a/or_gate128 1509984171 CP std_logic_vector CP or_muxcy
+FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_muxcy.vhd 2012/04/24.10:02:10 P.15xf
+EN proc_common_v3_00_a/or_muxcy 1509984163 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_muxcy.vhd \
+      PB ieee/std_logic_1164 1335251622 LB unisim
+AR proc_common_v3_00_a/or_muxcy/implementation 1509984164 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_muxcy.vhd \
+      EN proc_common_v3_00_a/or_muxcy 1509984163 CP std_logic_vector CP MUXCY
+FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/proc_common_pkg.vhd 2012/04/24.10:02:10 P.15xf
+PH proc_common_v3_00_a/proc_common_pkg 1509984475 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/proc_common_pkg.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+PB proc_common_v3_00_a/proc_common_pkg 1509984476 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/proc_common_pkg.vhd \
+      PH proc_common_v3_00_a/proc_common_pkg 1509984475
+FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/pselect_f.vhd 2012/04/24.10:02:10 P.15xf
+EN proc_common_v3_00_a/pselect_f 1509984169 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/pselect_f.vhd \
+      PB ieee/std_logic_1164 1335251622 LB unisim LB proc_common_v3_00_a \
+      PB proc_common_v3_00_a/family_support 1509984166
+AR proc_common_v3_00_a/pselect_f/imp 1509984170 \
+      FL C:/software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/pselect_f.vhd \
+      EN proc_common_v3_00_a/pselect_f 1509984169 CP integer CP std_logic_vector \
+      CP natural CP positive CP MUXCY

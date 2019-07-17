@@ -1,0 +1,5 @@
+vhdl work "../../hdl/vhdl/divisor_frecuencia.vhd"
+vhdl work "../../hdl/vhdl/debouncer.vhd"
+vhdl proc_common_v3_00_a "../../../../../../software/electronica/xilinx/14.1/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/proc_common_pkg.vhd"
+vhdl work "../../hdl/vhdl/pro.vhd"
+vhdl my_plb_peripheral_v1_00_a "../../hdl/vhdl/user_logic.vhd"

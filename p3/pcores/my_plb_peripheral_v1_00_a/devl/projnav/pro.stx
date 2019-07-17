@@ -1,0 +1,41 @@
+Release 14.1 - xst P.15xf (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/devl/projnav/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> Parameter xsthdpdir set to C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/devl/projnav/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/divisor_frecuencia.vhd" in Library work.
+Entity <divisor1> compiled.
+Entity <divisor1> (Architecture <divisor1_arch>) compiled.
+Compiling vhdl file "C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/debouncer.vhd" in Library work.
+Entity <debouncer> compiled.
+Entity <debouncer> (Architecture <debouncerArch>) compiled.
+Compiling vhdl file "C:/hlocal/p2/pcores/my_plb_peripheral_v1_00_a/hdl/vhdl/pro.vhd" in Library work.
+Entity <pro> compiled.
+Entity <pro> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> 
+
+Total memory usage is 209844 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
